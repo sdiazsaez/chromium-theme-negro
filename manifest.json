@@ -1,0 +1,24 @@
+{
+   "description": "Negro azulado",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwulINUpHqq0tvZ646pQ9vexpZ7+rkVFtcTDhutJYtROIgg/6CsC67ACiC5SjuCjfwe8TygfvJIKZq5a22P1fn39Y0nCd2KCtR4YuNjTTAf1YKqgA1/FBxs4qxH6dlTtfT471f5bhe7UlYWQYVROGMl1VGp18LsEJxky39pPnEwlUCRfBaX/f2KvtL1D2QfOLMh2s5th5uBQ8Pgw8A+BMaWwrbMzaBE6pZd52NSvK31Tgi1Z4OGHhiRWNczYS0aDtFWBGKgz5t30fs3ab+4eQNF9+5j2q5IHcg2NA/UA5IyMNrrJeVHuVP5yux8YLv65UKp9WfFrLOi1tbnZnRi61KwIDAQAB",
+   "manifest_version": 2,
+   "name": "Negro",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 23, 27, 31 ],
+		 "frame_inactive": [ 23, 27, 31 ],
+         "ntp_background": [ 42, 52, 61 ],
+         "button_background": [ 255, 255, 255 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 170, 170, 170 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 42, 52, 61 ]
+      },
+      "tints": {
+         "buttons": [ 255, 255, 255 ]
+      }
+   },
+   "version": "0.1"
+}
